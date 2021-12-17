@@ -11,6 +11,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  audioplayers: ^0.20.1
 
 dev_dependencies:
   flutter_test:
@@ -23,3 +24,8 @@ flutter:
   assets:
     - assets/images/
     - assets/sounds/
+
+  fonts:
+    - family: Alata
+      fonts:
+        - asset: fonts/Alata-Regular.ttf
