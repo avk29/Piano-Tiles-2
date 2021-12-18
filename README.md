@@ -4,7 +4,13 @@ A fun and hooking clone of the popular Piano Tiles 2 game
 
 ## About The Project
 
-This is a simple clone of the Piano Tiles 2 app built using **Flutter SDK** which works on - **Android** and **iOS** and the **web**.
+This project is a simple clone of the Piano Tiles 2 app built using **Flutter SDK** which works on - **Android** and **iOS** and the **web**.<br /><br />
+
+
+<p align="center">
+  <img src="https://github.com/avk29/piano_tiles_2/blob/master/assets/PianoTiles.gif" alt="animated" />
+</p>
+
 
 ## Plugins Used
 
