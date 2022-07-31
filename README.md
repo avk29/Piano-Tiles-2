@@ -1,10 +1,11 @@
 # Piano Tiles 2
 
-A fun and hooking clone of the popular Piano Tiles 2 game
+A fun and hooking clone of the popular Piano Tiles 2 game - <a href="https://pianotiles2-avk.netlify.app/">PianoTiles2 (Website Link)</a>
 
 ## About The Project
 
 This project is a simple clone of the Piano Tiles 2 app built using **Flutter SDK** which works on - **Android** and **iOS** and the **web**.<br /><br />
+It is **deployed** on the web using **Netlify**.
 
 
 <p align="center">
